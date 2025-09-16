@@ -94,7 +94,7 @@ header {
 
 /* Efecto hover sobre los enlaces del menú */
 .menu nav ul li a:hover {
-    color: #9c5113; /* Cambia el color al verde primario en hover */
+    color: #1fe20d; /* Cambia el color al verde primario en hover */
 }
 
 /* Botón de llamada a la acción (cita, contacto, etc.) */
@@ -200,11 +200,15 @@ header {
 .text-red {
     color: #2ca448;
 }
-.text-red {
+.text-naranja {
     color:#c07c18
 }
 .tex-rgb {
     color: rgb(107, 19, 19)
+}
+
+.tex-morado {
+    color:#890daf
 }
 
 /*End Portada Inicio */
